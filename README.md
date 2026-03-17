@@ -1,4 +1,4 @@
-# ESP32 CAN Analyzer 🚗📊
+# ESP32 CAN Monitor 🚗📊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue)]()
