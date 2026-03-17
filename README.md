@@ -5,7 +5,7 @@
 
 A real-time CAN bus monitoring tool for ESP32 that creates its own WiFi hotspot and displays live data in a web dashboard. Just plug in and watch your CAN data flow!
 
-![CAN Dashboard Screenshot](docs/dashboard-preview.jpg)
+![CAN Dashboard Screenshot](dashboard-preview.png)
 
 ## ✨ Features
 
